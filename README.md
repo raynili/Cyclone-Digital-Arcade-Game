@@ -1,8 +1,8 @@
 # Cyclone-Digital-Arcade-Game
 
-Digital recreation of the classic arcade game. 
-ECE243 Computer Organization Final Project
-Team members: Rayni Li and Jenny Li
+Digital recreation of the classic arcade game. <br/>
+ECE243 Computer Organization Final Project <br/>
+Team members: Rayni Li and Jenny Li <br/>
 Technologies: Programmed in C and run on the DE1-SoC Board.
 
 Note: Audio and background images have been removed to save file space. Previous took up 45,000 lines of code.
