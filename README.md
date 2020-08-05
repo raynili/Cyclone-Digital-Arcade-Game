@@ -18,3 +18,5 @@ How to play the game:
 - The player must press and release KEY0 when the coloured box reaches the pointer of the same colour. 
 - If successful, the colour of the box will change and the player has a new colour to match with. The score will increase.
 - If the key is pressed and released at the wrong location, the score will reset.
+
+<img  width="400" alt="game_demo" src=images/game_demo.jpg/>
